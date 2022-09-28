@@ -1,0 +1,6 @@
+BUS_ID = "bus_id"
+STOP_ID = "stop_id"
+STOP_NAME = "stop_name"
+NEXT_STOP = "next_stop"
+STOP_TYPE = "stop_type"
+A_TIME = "a_time"
